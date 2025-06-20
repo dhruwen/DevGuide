@@ -1,4 +1,4 @@
-![Developer गाइड logo](assets/images/dg_logo.png "OWASP Developer गाइड"){ align=right width="180" }
+![Developer गाइड logo](../assets/images/dg_logo.png "OWASP Developer गाइड"){ align=right width="180" }
 
 OWASP Development Guide में आपका स्वागत है।
 
@@ -56,7 +56,7 @@ _या_ इस गाइड को आप OWASP [Integration Standards][intstan
 जहाँ Application Security Wayfinder, OWASP के भीतर कई tools, परियोजनाओं एवं दस्तावेज़ों को मैप करता है
 वही डेवलपर गाइड इसके लिए कुछ शाब्दिक संदर्भ प्रदान करता है।
 
-[![AppSec Wayfinder](assets/images/owasp-wayfinder.png "OWASP Application Security Wayfinder")][intstand]
+[![AppSec Wayfinder](../assets/images/owasp-wayfinder.png "OWASP Application Security Wayfinder")][intstand]
 
 ----
 
